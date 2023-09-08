@@ -3,10 +3,8 @@
 
 ## My contact information:
 
-<a href="mailto:amir911157@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" width="40px" /></a> &nbsp; </a> &nbsp; <a href="https://t.me/AmirSukeimanov/chat" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" width="40px" /></a> &nbsp;  
-<!---
-<a href="https://www.linkedin.com/in/amir-suleymanov/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="40px" />
--->
+<a href="mailto:dvarkless@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" width="40px" /></a> &nbsp; </a> &nbsp; <a href="https://t.me/AmirSuleimanov/chat" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" width="40px" /></a> <a href="https://www.linkedin.com/in/dvarkless/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="40px" /> </a> &nbsp;  
+
 
 ## Technology stack
 
@@ -34,7 +32,8 @@
 
 **Other tools**
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) <br />
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff) <br />
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff) <br />
 ![Neovim](https://img.shields.io/badge/-Neovim-white?style=flat-square&logo=Neovim) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code) <br />
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+
